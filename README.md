@@ -31,15 +31,6 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-## Variables de entorno
-
-RPC_URL=http://127.0.0.1:8545
-PRIVATE_KEY=0xTUTUCLAVEPRIVADA
-CONTRACT_ADDRESS=0xDIRECCIONCONTRATO
-AUTH_USER=admin
-AUTH_PASS=1234
-IPA_PRIVKEY=0xCLAVEPRIVADADELIPA
-
 ## Endpoints disponibles
 
 POST /register_identity
