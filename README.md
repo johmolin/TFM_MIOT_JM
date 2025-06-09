@@ -15,6 +15,9 @@ Repositorio del Trabajo de Fin de Máster:
 - `ipa/ipa_sim.py`  
   Script que simula el comportamiento del IoT Profile Assistant (IPA), incluyendo autenticación mediante firma digital.
 
+- `.env.example`
+  Variables de entorno a configurar en la raiz del proyecto
+
 ## Requisitos
 
 - Python 3.10+
