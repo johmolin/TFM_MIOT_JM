@@ -31,11 +31,3 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-## Endpoints disponibles
-
-POST /register_identity
-POST /request_operator_change
-GET /devices
-GET /operator_history/<eid>
-
-
