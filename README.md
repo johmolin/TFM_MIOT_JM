@@ -1,8 +1,8 @@
 Repositorio del Trabajo de Fin de Máster:  
 **Tecnología Blockchain Aplicada a la Securización e Interoperabilidad de eSIMs en Dispositivos IoT**
-Autor: Johan Molina Medina
-Universidad Complutense de Madrid
-Master en Internet de las Cosas
+- Autor: Johan Molina Medina
+- Universidad Complutense de Madrid
+- Master en Internet de las Cosas
 
 ## Estructura
 
