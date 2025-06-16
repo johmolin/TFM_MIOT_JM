@@ -11,7 +11,7 @@ Este trabajo aborda directamente estos desafíos proponiendo un modelo innovador
 
 La viabilidad de la solución fue demostrada mediante una prueba de concepto técnica en un entorno controlado y validada cualitativamente a través de una encuesta a 57 profesionales del sector. Los resultados concluyen que la integración de blockchain mejora significativamente la securización, trazabilidad y auditabilidad, ofreciendo un marco de gestión de eSIMs más resiliente y automatizable. De este modo, el trabajo no solo presenta una solución técnica, sino que sienta las bases para un ecosistema IoT más abierto, interoperable y confiable, alineado con las futuras normativas regulatorias y modelos de gobernanza distribuida.
 
-Palabras claves
+## Palabras claves:
 API, Backend, Blockchain, eUICC, IoT, GSMA, Smart contracts.
 
 ## Estructura
